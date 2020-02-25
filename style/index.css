@@ -24,12 +24,11 @@
     font-size: 14px;
     line-height: 2;
     color: #2F281E;
-    
+    margin-inline:10px;
 }
 
 .signin .signup{
     display: inline-block;
-    
 }
 
 .signin {
@@ -45,8 +44,6 @@
     color:#173A56;
     margin-top: 15px;
     margin-bottom: 17px ;
-   
-
 }
 
 .signup {
@@ -60,6 +57,88 @@
     font-size: 16px;
     line-height: 1.5;
     color: #FFFFFF
-
 }
+
+
+.headercontents {
+    block-size:518px 331px;
+    margin-top: 113px;
+    margin-left: 145px;
+}
+
+.headerh1 {
+     font-family: Poppins;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 44px;
+     line-height: 1.2;
+     color: #2F281E;
+}
+
+h4 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #544837;
+    width: 458px;
+    height: 95px;
+}
+
+.getstarted {
+    background: #FF9900;
+    border-radius: 4px;
+    width: 175px;
+    height: 53px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFFFF;
+}
+
+.triangle {
+    display: inline-block;
+    background-color: #FF9900;
+    border-top: 20px;
+    border-left: 17px;
+    border-bottom: 20px;
+    border-radius: 1.125px;
+    
+}
+
+ a {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    text-decoration-line: underline;
+    color: #FF9900;
+}
+
+.headerimage {
+    position:relative;
+    left: 766px;
+    max-width: 605px;
+    max-height: 496px;
+  
+    
+}
+
+.featureh1 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.5;
+    text-align: center;
+    color: #2F281E;
+}
+
+
+
+
 
